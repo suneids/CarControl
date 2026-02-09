@@ -1,0 +1,77 @@
+Added Pin To Net: NetName=8.4V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=5V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=5V Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=8.4V Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=5V Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=3.3V Pin=DD2-3.3V
+Added Pin To Net: NetName=GND Pin=DD2-GND
+Added Pin To Net: NetName=NetDD1_42 Pin=DD2-GPIO20
+Added Pin To Net: NetName=NetDD1_41 Pin=DD2-GPIO21
+Added Pin To Net: NetName=GND Pin=DD3-1
+Added Pin To Net: NetName=PWM3 Pin=DD3-2
+Added Pin To Net: NetName=PWM2 Pin=DD3-3
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=8.4V Pin=DD3-5
+Added Pin To Net: NetName=NetDD3_6 Pin=DD3-6
+Added Pin To Net: NetName=GND Pin=DD3-7
+Added Pin To Net: NetName=NetDD3_8 Pin=DD3-8
+Added Pin To Net: NetName=GND Pin=DD3-9
+Add Pin To Net: Unknown Pin: Pin GB1-1
+Add Pin To Net: Unknown Pin: Pin GB1-2
+Add Pin To Net: Unknown Pin: Pin M1-1
+Add Pin To Net: Unknown Pin: Pin M1-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetDD3_4 Pin=R5-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin S2-3
+Add Pin To Net: Unknown Pin: Pin U?_U1-1
+Add Pin To Net: Unknown Pin: Pin U?_U1-2
+Add Pin To Net: Unknown Pin: Pin U?_U1-3
+Add Pin To Net: Unknown Pin: Pin U?_U1-4
+Add Pin To Net: Unknown Pin: Pin U?_U1-5
+Add Pin To Net: Unknown Pin: Pin U?_U1-6
+Add Pin To Net: Unknown Pin: Pin U?_U1-7
+Add Pin To Net: Unknown Pin: Pin U?_U1-8
+Add Pin To Net: Unknown Pin: Pin U?_U2-1
+Add Pin To Net: Unknown Pin: Pin U?_U2-2
+Add Pin To Net: Unknown Pin: Pin U?_U2-3
+Add Pin To Net: Unknown Pin: Pin U?_U2-4
+Add Pin To Net: Unknown Pin: Pin U?_U2-5
+Add Pin To Net: Unknown Pin: Pin U?_U2-6
+Add Pin To Net: Unknown Pin: Pin U?_U2-7
+Add Pin To Net: Unknown Pin: Pin U?_U2-8
+Added Pin To Net: NetName=3.3V Pin=XP1-3.3V
+Added Pin To Net: NetName=GND Pin=XP1-GND
+Added Pin To Net: NetName=NetDD1_49 Pin=XP1-SWCLK
+Added Pin To Net: NetName=NetDD1_46 Pin=XP1-SWDIO
+Add Pin To Net: Unknown Pin: Pin XP2-1
+Add Pin To Net: Unknown Pin: Pin XP2-2
+Add Pin To Net: Unknown Pin: Pin XP3-1
+Add Pin To Net: Unknown Pin: Pin XP3-2
+Add Pin To Net: Unknown Pin: Pin XP3-3
+Add Pin To Net: Unknown Pin: Pin XP4-1
+Add Pin To Net: Unknown Pin: Pin XP4-2
+Add Pin To Net: Unknown Pin: Pin XP5-1
+Add Pin To Net: Unknown Pin: Pin XP5-2
+Add Pin To Net: Unknown Pin: Pin XP5-3
+Change Net Name : Old Net Name=NetDD1_7 New Net Name=NetC10_2
+Added Member To Class: ClassName=Car Member=Component C16 0.1µF
+Added Member To Class: ClassName=Car Member=Component C17 0.1µF
+Added Member To Class: ClassName=Car Member=Component C18 0.1µF
+Added Member To Class: ClassName=Car Member=Component D1 SMAJ10A
+Added Member To Class: ClassName=Car Member=Component D2 SMAJ5.0AQ-13-F
+Added Member To Class: ClassName=Car Member=Component DD3
+Add Class Member: Failed to add class member : Component GB1 Constant Voltage Source
+Add Class Member: Failed to add class member : Component M1
+Added Member To Class: ClassName=Car Member=Component R5 30k
+Add Class Member: Failed to add class member : Component S1 SG90
+Add Class Member: Failed to add class member : Component S2 SG90

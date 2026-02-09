@@ -1,0 +1,61 @@
+Added Component: Designator=C16(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl21a106kaynnne/samsung-electro-mechanics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6a45835c9b7400e9b49c55c38a8ff4a2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A106KAYNNNE?qs=yOVawPpwOwmTXAd4dJtNjA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl21a106kaynnne/samsung-electro-mechanics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6a45835c9b7400e9b49c55c38a8ff4a2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A106KAYNNNE?qs=yOVawPpwOwmTXAd4dJtNjA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl21a106kaynnne/samsung-electro-mechanics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6a45835c9b7400e9b49c55c38a8ff4a2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A106KAYNNNE?qs=yOVawPpwOwmTXAd4dJtNjA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SODFL5226X240N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.de/datasheet/2/115/ds40739-1500914.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ5.0AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-SMAJ5.0AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SMAJ5.0AQ-13-F?qs=17u8i%2FzlE8%2FlC4rBSQmAww%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SODFL5226X240N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.de/datasheet/2/115/ds40739-1500914.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMAJ5.0AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-SMAJ5.0AQ-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SMAJ5.0AQ-13-F?qs=17u8i%2FzlE8%2FlC4rBSQmAww%3D%3D"; VariantName = "[No Variations]"
+Add component: Footprint Not Found ESP32C3_SUPER_MINI
+Add component: Footprint Not Found DRV8871DDA
+Added Component: Designator=R5(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cl21a106kaynnne/samsung-electro-mechanics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/6a45835c9b7400e9b49c55c38a8ff4a2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "187-CL21A106KAYNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A106KAYNNNE?qs=yOVawPpwOwmTXAd4dJtNjA%3D%3D"; VariantName = "[No Variations]"
+Add component: Footprint Not Found ST-LINK
+Add component: Footprint Not Found EXT_SENSOR
+Add component: Footprint Not Found EXT_SENSOR_3pin
+Add component: Footprint Not Found EXT_SENSOR
+Add component: Footprint Not Found EXT_SENSOR_3pin

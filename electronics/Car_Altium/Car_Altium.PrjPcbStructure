@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Car.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Car.SchDoc|Designator=U1|SchDesignator=U1|FileName=Buck5V.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Buck5V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Car.SchDoc|Designator=U2|SchDesignator=U2|FileName=Buck5V.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Buck5V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
